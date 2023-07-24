@@ -1,3 +1,6 @@
+.vercel
+.env*.local
+
 # Logs
 logs
 *.log
